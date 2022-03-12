@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641234929169",
+    "project_id": "yammabob-18632",
+    "storage_bucket": "yammabob-18632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641234929169:android:97d4695002532c835e93b0",
+        "android_client_info": {
+          "package_name": "com.example.yamma_bob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641234929169-qh43175i4l0r8eflg8jok50cuen7tfsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKGrZzRDtN5IHkyoS8pbMgMJ4GxmbD8P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641234929169-qh43175i4l0r8eflg8jok50cuen7tfsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
